@@ -1,23 +1,32 @@
-1=Intro to the course=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/intro-prerequisites/intro-to-the-course
-2=Prerequisites=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/intro-prerequisites/prerequisites
-3=Before Next.js=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/intro-to-next-js/before-next-js
-4=How Web Works=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/intro-to-next-js/how-web-works
-5=Next.js installation=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/practical-crash-course/next-js-installation
-6=Next.js Project Structure=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/practical-crash-course/next-js-project-structure
+1=Intro to the course=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/intro-prerequisites/intro-to-the-course=12:27
+2=Prerequisites=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/intro-prerequisites/prerequisites=7:20
+3=Before Next.js=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/intro-to-next-js/before-next-js=8:49
+4=How Web Works=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/intro-to-next-js/how-web-works=8:20
+5=Next.js installation=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/practical-crash-course/next-js-installation=notes
+6=Next.js Project Structure=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/practical-crash-course/next-js-project-structure=
 7=App Router=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/practical-crash-course/app-router
 8=React Client and Server Components=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/practical-crash-course/react-client-and-server-components
 9=Routing, Handling Errors & Loadings=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/practical-crash-course/routing-handling-errors-loadings
 10=Data Fetching (CSR, SSR, ISR, PPR)=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/practical-crash-course/data-fetching-csr-ssr-isr-ppr-
 11=API Routes=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/practical-crash-course/api-routes
 12=SEO & Metadata=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/practical-crash-course/seo-metadata
-13=Create a Next.js Application=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/setup-of-the-project/create-a-next-js-application
-14=Git & GitHub Setup=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/setup-of-the-project/git-github-setup
-15=ESlint & Prettier Setup=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/setup-of-the-project/eslint-prettier-setup
-16=Tailwind CSS Setup=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/setup-of-the-project/tailwind-css-setup
-17=Tailwind CSS Theming=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/setup-of-the-project/tailwind-css-theming
-18=Setup Fonts=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/setup-of-the-project/setup-fonts
-19=File Based Routing=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/next-js-routing/file-based-routing
-20=Advanced Routing=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/next-js-routing/advanced-routing
+
+//  chapter 4 
+
+13=Create a Next.js Application=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/setup-of-the-project/create-a-next-js-application=12:35
+14=Git & GitHub Setup=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/setup-of-the-project/git-github-setup=7:56
+15=ESlint & Prettier Setup=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/setup-of-the-project/eslint-prettier-setup=10:28
+16=Tailwind CSS Setup=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/setup-of-the-project/tailwind-css-setup=12:43
+17=Tailwind CSS Theming=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/setup-of-the-project/tailwind-css-theming=6:14
+18=Setup Fonts=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/setup-of-the-project/setup-fonts=5:41
+
+// chapter 5
+
+19=File Based Routing=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/next-js-routing/file-based-routing=20:58
+20=Advanced Routing=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/next-js-routing/advanced-routing=comming-soon
+
+// chapter 6
+
 21=Birth of Server Components=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/architecture/birth-of-server-components
 22=Client vs. Server Paradigm=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/architecture/client-vs-server-paradigm
 23=Different Rendering Strategies=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/architecture/different-rendering-strategies
