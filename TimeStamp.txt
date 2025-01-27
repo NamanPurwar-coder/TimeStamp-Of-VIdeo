@@ -1,0 +1,105 @@
+1=Intro to the course=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/intro-prerequisites/intro-to-the-course
+2=Prerequisites=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/intro-prerequisites/prerequisites
+3=Before Next.js=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/intro-to-next-js/before-next-js
+4=How Web Works=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/intro-to-next-js/how-web-works
+5=Next.js installation=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/practical-crash-course/next-js-installation
+6=Next.js Project Structure=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/practical-crash-course/next-js-project-structure
+7=App Router=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/practical-crash-course/app-router
+8=React Client and Server Components=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/practical-crash-course/react-client-and-server-components
+9=Routing, Handling Errors & Loadings=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/practical-crash-course/routing-handling-errors-loadings
+10=Data Fetching (CSR, SSR, ISR, PPR)=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/practical-crash-course/data-fetching-csr-ssr-isr-ppr-
+11=API Routes=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/practical-crash-course/api-routes
+12=SEO & Metadata=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/practical-crash-course/seo-metadata
+13=Create a Next.js Application=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/setup-of-the-project/create-a-next-js-application
+14=Git & GitHub Setup=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/setup-of-the-project/git-github-setup
+15=ESlint & Prettier Setup=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/setup-of-the-project/eslint-prettier-setup
+16=Tailwind CSS Setup=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/setup-of-the-project/tailwind-css-setup
+17=Tailwind CSS Theming=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/setup-of-the-project/tailwind-css-theming
+18=Setup Fonts=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/setup-of-the-project/setup-fonts
+19=File Based Routing=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/next-js-routing/file-based-routing
+20=Advanced Routing=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/next-js-routing/advanced-routing
+21=Birth of Server Components=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/architecture/birth-of-server-components
+22=Client vs. Server Paradigm=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/architecture/client-vs-server-paradigm
+23=Different Rendering Strategies=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/architecture/different-rendering-strategies
+24=Set up the themes=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/light-dark-theme/set-up-the-themes
+25=Installing ShadCN UI=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/light-dark-theme/installing-shadcn-ui
+26=Creating the Navbar=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/light-dark-theme/creating-the-navbar
+27=Create a theme toggler=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/light-dark-theme/create-a-theme-toggler
+28=What is Authentication=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/authentication/what-is-authentication
+29=HTTP State Management Mechanisms=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/authentication/http-state-management-mechanisms
+30=Create Auth Routes=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/authentication/create-auth-routes
+31=Create Auth Layout & Social Auth Form=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/authentication/create-auth-layout-social-auth-form
+32=Setup NextAuth with GitHub Provider=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/authentication/setup-nextauth-with-github-provider
+33=Implement Github SignIn=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/authentication/implement-github-signin
+34=Implement Google SignIn=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/authentication/implement-google-signin
+35=Creating Auth Form=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/authentication/creating-auth-form
+36=Mobile Navigation=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/application-navigation/mobile-navigation
+37=Active Lesson: LeftSidebar=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/application-navigation/active-lesson-leftsidebar
+38=Implement LeftSidebar=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/application-navigation/implement-leftsidebar
+39=Implement RightSidebar=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/application-navigation/implement-rightsidebar
+40=What s State Management=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/state-management/what-s-state-management
+41=Different types of State Management=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/state-management/different-types-of-state-management
+42=State Management in Next.js=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/state-management/state-management-in-next-js
+43=URL State Management=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/state-management/url-state-management
+44=Different URL Parameters in Next.js=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/state-management/different-url-parameters-in-next-js
+45=How to do URL State Management=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/state-management/how-to-do-url-state-management
+46=Home Layout=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/home-page/home-layout
+47=Local Search Bar=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/home-page/local-search-bar
+48=Filter in Next.js=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/home-page/filter-in-next-js
+49=Question Card=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/home-page/question-card
+50=Question Form=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/ask-a-question-page/question-form
+51=Question Editor=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/ask-a-question-page/question-editor
+52=Multiple Tags Input=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/ask-a-question-page/multiple-tags-input
+53=Thinking in Backend=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/develop-your-backend/thinking-in-backend
+54=Setup MongoDB and Mongoose=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/develop-your-backend/setup-mongodb-and-mongoose
+55=Architect Database Structure=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/develop-your-backend/architect-database-structure
+56=Create User Model=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/develop-your-backend/create-user-model
+57=Action Lesson: Create Account Model=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/develop-your-backend/action-lesson-create-account-model
+58=Create Account Model=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/develop-your-backend/create-account-model
+59=Action Lesson: Create Question Model=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/develop-your-backend/action-lesson-create-question-model
+60=Create Question Model=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/develop-your-backend/create-question-model
+61=Action Lesson: Create Answer Model=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/develop-your-backend/action-lesson-create-answer-model
+62=Create Answer Model=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/develop-your-backend/create-answer-model
+63=Action Lesson: Create Tag Models=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/develop-your-backend/action-lesson-create-tag-models
+64=Create Tag Models=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/develop-your-backend/create-tag-models
+65=Action Lesson: Create Vote Model=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/develop-your-backend/action-lesson-create-vote-model
+66=Create Vote Model=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/develop-your-backend/create-vote-model
+67=Active Lesson: Create Collection Model=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/develop-your-backend/active-lesson-create-collection-model
+68=Create Collection Model=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/develop-your-backend/create-collection-model
+69=Action Lesson: Create Interaction Model=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/develop-your-backend/action-lesson-create-interaction-model
+70=Create Interaction Model=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/develop-your-backend/create-interaction-model
+71=The Mongoose Types=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/develop-your-backend/the-mongoose-types
+72=The Art of Failing Gracefully=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/error-log-handlers/the-art-of-failing-gracefully
+73=Implement Error Handling=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/error-log-handlers/implement-error-handling
+74=Implement Logging=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/error-log-handlers/implement-logging
+75=What is Serverless Backend=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/api-routes-route-handlers-/what-is-serverless-backend
+76=Introduction to Route Handlers=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/api-routes-route-handlers-/introduction-to-route-handlers
+77=Common API Things to Keep in Mind=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/api-routes-route-handlers-/common-api-things-to-keep-in-mind
+78=Create & Read User Routes=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/api-routes-route-handlers-/create-read-user-routes
+79=Dynamic User Routes=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/api-routes-route-handlers-/dynamic-user-routes
+80=Users by Mail=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/api-routes-route-handlers-/users-by-mail
+81=Create & Read Account Routes=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/api-routes-route-handlers-/create-read-account-routes
+82=Dynamic Account Routes=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/api-routes-route-handlers-/dynamic-account-routes
+83=Account by Provider=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/api-routes-route-handlers-/account-by-provider
+84=API Fetch Handler=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/api-routes-route-handlers-/api-fetch-handler
+85=Flow of Application=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/authentication-ii-social-auth-accounts/flow-of-application
+86=The Edge Case=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/authentication-ii-social-auth-accounts/the-edge-case
+87=Accounts for oAuth=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/authentication-ii-social-auth-accounts/accounts-for-oauth
+88=Debugging oAuth=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/authentication-ii-social-auth-accounts/debugging-oauth
+89=What's Next?!=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/authentication-ii-social-auth-accounts/what-s-next-
+90=Introduction to Server Actions=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/server-actions/introduction-to-server-actions
+91=Server Action Demo=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/server-actions/server-action-demo
+92=When and When Not to Use Server Actions=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/server-actions/when-and-when-not-to-use-server-actions
+93=Security Concerns=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/server-actions/security-concerns
+94=API Routes vs Server Actions=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/server-actions/api-routes-vs-server-actions
+95=Flow of Application=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/authentication-iii-email-password-auth/flow-of-application
+96=Server Action Handler=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/authentication-iii-email-password-auth/server-action-handler
+97=Sign Up implementation=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/authentication-iii-email-password-auth/sign-up-implementation
+98=Sign In implementation=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/authentication-iii-email-password-auth/sign-in-implementation
+99=Auth Checks and Logout=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/authentication-iii-email-password-auth/auth-checks-and-logout
+100=Create Question Action=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/question-submission/create-question-action
+101=Create and Test Question=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/question-submission/create-and-test-question
+102=Edit Question Action=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/question-submission/edit-question-action
+103=Edit and Test Question=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/question-submission/edit-and-test-question
+104=Fetch and Display Questions=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/home-page-devoverflow/fetch-and-display-questions
+105=Render UI States=https://beta.jsmastery.pro/course/the-ultimate-next-js-15-course/home-page-devoverflow/render-ui-states
